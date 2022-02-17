@@ -1,0 +1,4 @@
+- Explicação do validator 
+- Implementação
+- Testes
+- Casos de uso
